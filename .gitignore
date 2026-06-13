@@ -1,0 +1,15 @@
+TOFPGA.ip_user_files/
+TOFPGA.runs/
+TOFPGA.hw/
+TOFPGA.sim/
+TOFPGA.cache/
+
+*.log
+*.jou
+
+*~
+
+*.wbd
+*.wcfg
+
+vivado_*.str
