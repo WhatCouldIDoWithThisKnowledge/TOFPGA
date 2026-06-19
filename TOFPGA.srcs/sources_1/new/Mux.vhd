@@ -28,7 +28,6 @@ begin
             E2 => not_helper,
             S => S
         );
-    
     not_helper(0) <= not Sel;
     helper(0) <= Sel;
 end architecture bit_32;
